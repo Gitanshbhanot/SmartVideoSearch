@@ -200,7 +200,6 @@ const NavBar = () => {
             className="h-7 w-7 md:h-10 md:w-10"
           />
           <p className="text-xl md:text-2xl font-semibold">
-            Ripik{" "}
             <span className="text-[#57A2ED] font-normal">SmartSearch.</span>
           </p>
         </div>

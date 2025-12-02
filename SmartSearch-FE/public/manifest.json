@@ -1,6 +1,6 @@
 {
   "short_name": "Smart Search",
-  "name": "Ripik Smart Search",
+  "name": "Smart Search",
   "icons": [
     {
       "src": "/app-icon.ico",
@@ -27,7 +27,7 @@
   "lang": "en",
   "prefer_related_applications": false,
   "scope": "/",
-  "description": "Ripik Smart Search: A powerful tool for quick and intelligent search across your data.",
+  "description": "Smart Search: A powerful tool for quick and intelligent search across your data.",
   "id": "/",
   "launch_handler": {
     "client_mode": "auto"
@@ -38,13 +38,13 @@
       "src": "/screenshots/screenshot-1.png",
       "sizes": "1280x720",
       "type": "image/png",
-      "label": "Ripik Smart Search main interface"
+      "label": "Smart Search main interface"
     },
     {
       "src": "/screenshots/screenshot-2.png",
       "sizes": "1280x720",
       "type": "image/png",
-      "label": "Ripik Smart Search results page"
+      "label": "Smart Search results page"
     }
   ]
 }

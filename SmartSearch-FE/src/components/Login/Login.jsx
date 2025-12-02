@@ -141,14 +141,10 @@ const Login = ({ children }) => {
                     boxShadow: "0px 7.2px 36px 0px rgba(87, 162, 237, 0.50)",
                   }}
                 >
-                  <img
-                    src="/ripik.svg"
-                    alt="logo ripik"
-                    className="h-8 w-8 md:h-10 md:w-10"
-                  />
+
                 </div>
                 <p className="text-xl md:text-2xl text-[#192944] font-semibold w-full text-center">
-                  Ripik{" "}
+                  {" "}
                   <span className="font-normal text-[#57A2ED]">
                     Smart Search.
                   </span>
